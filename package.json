@@ -1,22 +1,15 @@
 {
   "name": "bullnose2",
   "version": "1.0.0",
-  "description": "Version 2.0 for Bullnose. More robust and responsiveness added.",
-  "main": "index.html",
+  "description": "",
+  "main": "index.js",
   "scripts": {
     "deploy": "gh-pages -d dist"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/Rivas1/bullnose2.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/Rivas1/bullnose2/issues"
-  },
-  "homepage": "https://rivas1.github.io/bullnose2/",
+  "homepage": "https://rivas1.github.io/bullnose2",
   "dependencies": {
     "gh-pages": "^2.0.1"
   }
