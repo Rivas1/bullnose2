@@ -16,7 +16,7 @@
   "bugs": {
     "url": "https://github.com/Rivas1/bullnose2/issues"
   },
-  "homepage": "https://rivas1.github.io/bullnose2/index.html",
+  "homepage": "https://rivas1.github.io/bullnose2/",
   "dependencies": {
     "gh-pages": "^2.0.1"
   }
